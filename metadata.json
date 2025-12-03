@@ -1,0 +1,8 @@
+{
+  "name": "Example.com",
+  "description": "Stream the future with Example.com. Watch videos and interact with an AI companion that sees what you see.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
